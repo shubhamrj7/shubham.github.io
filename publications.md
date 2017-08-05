@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publication
-permalink: /publication/
+permalink: /publications/
 ---
 Looking for full? visit [Google Scholar](https://scholar.google.com/citations?user=0SkFI4MAAAAJ&hl=en) or [DBLP](http://dblp.uni-trier.de/pers/hd/s/Shang:Jingbo)
 

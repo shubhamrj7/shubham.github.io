@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Experience
-permalink: /experience/
+permalink: /experiences/
 ---
 
 # Professional Experience
