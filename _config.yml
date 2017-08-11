@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Jingbo Shang
+title: Jingbo Shang 
 
 # Short description of your site
-description: Welcome to Jingbo Shang's Homepage!
+description: Welcome to Jingbo Shang's Homepage! 
 
 # --- Navigation bar options --- #
 
@@ -41,7 +41,7 @@ avatar: "/img/avatar.jpg"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Jingbo Shang
+  name: <a href='http://www.hit-counts.com'><img src='http://www.hit-counts.com/counter.php?t=MTM4NTA4MQ==' border='0' alt='Hit Counter'></a><br/>Jingbo Shang 
   email: "shang7@illinois.edu"
   facebook: jingbo.shang
   github: shangjingbo1226

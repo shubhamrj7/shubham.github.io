@@ -3,10 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
+<center>
+<u><b><a href="https://www.dropbox.com/s/wlvfxklccuc9skw/Jingbo_Shang-2017-08-11.pdf?dl=1">CV</a></b></u>
+</center>
 
-[[CV]](http://shang7.web.engr.illinois.edu/cvs/Jingbo_Shang-2017-04-10.pdf)
-
-**Research Interests**: Constructing and mining knowledge from massive unstructured text corpora.
+**Research Interests**: Constructing and mining knowledge from massive unstructured text corpora with minimal human effort. The minimal human effort refers to only using public, general knowledge bases and shallow linguistic analyzers (e.g., tokenizer).
 
 I'm a 4th year Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s Data Mining Group at [CS@Illinois](https://cs.illinois.edu/), and a Google PhD Fellow. I received my B.E. from Computer Science Department, Shanghai Jiao Tong Univ. (SJTU), China, where I was a member of the 2010 [ACM Honored class](http://acm.sjtu.edu.cn/), now part of Zhiyuan College in SJTU. 
 
