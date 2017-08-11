@@ -25,28 +25,29 @@ Entity-Relation-Attribute (ERA) structures, forming structured networks between 
 ### Introduction
 [slides]
 
-### Part I.
+### Part I. Entity Extraction through Phrase Mining 
 [slides][[AutoPhrase](https://github.com/shangjingbo1226/AutoPhrase)][[SegPhrase](https://github.com/shangjingbo1226/SegPhrase)][[ToPMine](http://web.engr.illinois.edu/~elkishk2/code/ToPMine.zip)]
 
 - Jingbo Shang, Jialu Liu, Meng Jiang, Xiang Ren, Clare R Voss, Jiawei Han, "[Automated Phrase Mining from Massive Text Corpora](https://arxiv.org/abs/1702.04457)", submitted to TKDE, under review. 
 - Jialu Liu, Jingbo Shang, and Jiawei Han, "[Phrase Mining from Massive Text and Its Applications](http://www.morganclaypool.com/doi/abs/10.2200/S00759ED1V01Y201702DMK013)", Synthesis Lectures on Data Mining and Knowledge Discovery, Morgan & Claypool Publishers, 2017.
-- Jialu Liu, Jingbo Shang, Chi Wang, Xiang Ren, Jiawei Han, "[Mining Quality Phrases from Massive Text Corpora](http://hanj.cs.illinois.edu/pdf/sigmod15_jliu.pdf)",  in Proc. of 2015 ACM SIGMOD Int. Conf. on Management of Data (SIGMOD'15),  Melbourne, Australia, May 2015 (won Grand Prize in Yelp Dataset Challenge, 2015)
+- Jialu Liu, Jingbo Shang, Chi Wang, Xiang Ren, Jiawei Han, "[Mining Quality Phrases from Massive Text Corpora](http://hanj.cs.illinois.edu/pdf/sigmod15_jliu.pdf)",  in Proc. of 2015 ACM SIGMOD Int. Conf. on Management of Data (SIGMOD'15),  Melbourne, Australia, May 2015 (**<span style="color:red">won Grand Prize in Yelp Dataset Challenge, 2015</span>**)
 - Ahmed El-Kishky, Yanglei Song, Chi Wang, Clare R. Voss, and Jiawei Han, "[Scalable Topical Phrase Mining from Text Corpora](http://hanj.cs.illinois.edu/pdf/vldb15_ael-kishky.pdf)", PVLDB 8(3): 305 - 316, 2015. Also, in Proc. 2015 Int. Conf. on Very Large Data Bases (VLDB'15), Kohala Coast, Hawaii, Sept. 2015.
 
-### Part II.
-[slides][[CoType](https://github.com/shanzhenren/CoType)][[AFET](https://github.com/shanzhenren/AFET)][[PLE](https://github.com/shanzhenren/PLE)][[ClusType](https://github.com/shanzhenren/ClusType)]
+### Part II. Joint Typing of Entities and Relations
+[slides][[ReHession](https://github.com/LiyuanLucasLiu/ReHession)][[CoType](https://github.com/shanzhenren/CoType)][[AFET](https://github.com/shanzhenren/AFET)][[PLE](https://github.com/shanzhenren/PLE)][[ClusType](https://github.com/shanzhenren/ClusType)]
 
 - Liyuan Liu, Xiang Ren, Qi Zhu, Shi Zhi, Huan Gui, Heng Ji and Jiawei Han, "[Heterogeneous Supervision for Relation Extraction: A Representation Learning Approach](http://hanj.cs.illinois.edu/pdf/emnlp17_lliu.pdf)",  in Proc. of 2017 Conf. on  Empirical Methods in Natural Language Processing (EMNLP'17), Copenhagen, Denmark, Sept. 2017
+- Xiang Ren, Zeqiu Wu, Wenqi He, Meng Qu, Clare Voss, Heng Ji, Tarek Abdelzaher and Jiawei Han, "[CoType: Joint Extraction of Typed Entities and Relations with Knowledge Bases](http://hanj.cs.illinois.edu/pdf/www17_xren.pdf)", in Proc. of 2017 World-Wide Web Conf. (WWW'17), Perth, Australia, Apr. 2017.
 - Xiang Ren, Wenqi He, Meng Qu, Lifu Huang, Heng Ji, and Jiawei Han, "[AFET: Automatic Fine-Grained Entity Typing by Hierarchical Partial-Label Embedding](http://hanj.cs.illinois.edu/pdf/emnlp16_xren.pdf)", in Proc. of 2016 Conf. on Empirical Methods in Natural Language Processing (EMNLP'16), Austin, TX, Nov. 2016
 - Xiang Ren,  Wenqi He,  Meng Qu, Clare R. Voss, Heng Ji, Jiawei Han, "[Label Noise Reduction in Entity Typing by Heterogeneous Partial-Label Embedding](http://hanj.cs.illinois.edu/pdf/kdd16_xren.pdf)", in Proc. of 2016 ACM SIGKDD Conf. on Knowledge Discovery and Data Mining (KDD'16), San Francisco, CA, Aug. 2016
 - Xiang Ren, Ahmed El-Kishky, Chi Wang, Fangbo Tao, Clare R. Voss, Heng Ji, Jiawei Han, "[ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering](http://hanj.cs.illinois.edu/pdf/kdd15_xren.pdf)", in Proc. of 2015 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD'15), Sydney, Australia, Aug. 2015
 
-### Part III.
+### Part III. Meta Pattern-Driven Attribute Discovery
 [slides][[MetaPAD](https://github.com/mjiang89/MetaPAD)]
 
 - Meng Jiang, Jingbo Shang, Taylor Cassidy, Xiang Ren, Lance Kaplan, Timothy Hanratty and Jiawei Han, "[MetaPAD: Meta Patten Discovery from Massive Text Corpora](http://hanj.cs.illinois.edu/pdf/kdd17_mjiang.pdf)", in Proc. of 2017 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD'17), Halifax, Nova Scotia, Canada, Aug. 2017
 
-### Part IV.
+### Part IV. Structure Discovery from Text: Application Exploration
 [slides][[SetExpan](https://github.com/mickeystroller/SetExpan)][[DPE](https://github.com/mnqu/DPE)]
 
 - Jiaming Shen, Zeqiu Wu, Dongming Lei, Jingbo Shang, Xiang Ren, Jiawei Han, "[SetExpan: Corpus-based Set Expansion via Context Feature Selection and Rank Ensemble](http://hanj.cs.illinois.edu/pdf/ecmlkdd17_jshen.pdf)",  in Proc. of 2017 European Conf. on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECMLPKDD'17), Skopje, Macedonia, Sept. 2017
