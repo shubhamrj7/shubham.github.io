@@ -22,7 +22,7 @@ Entity-Relation-Attribute (ERA) structures, forming structured networks between 
 
 ## Slides
 
-We provide the *preliminary* versions of slides [here](https://www.dropbox.com/s/k0qruxo0gtspgf1/KDD17-tutorial.pdf?dl=1)]. Separated slides for each part can be found in the following sections. The *final* version will be updated after the tutorial.
+We provide the *preliminary* versions of slides [here](https://www.dropbox.com/s/k0qruxo0gtspgf1/KDD17-tutorial.pdf?dl=1). Separated slides for each part can be found in the following sections. The *final* version will be updated after the tutorial.
 
 
 ### Introduction
