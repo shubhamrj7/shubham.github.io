@@ -42,7 +42,7 @@ Entity-Relation-Attribute (ERA) structures, forming structured networks between 
 - Xiang Ren,  Wenqi He,  Meng Qu, Clare R. Voss, Heng Ji, Jiawei Han, "[Label Noise Reduction in Entity Typing by Heterogeneous Partial-Label Embedding](http://hanj.cs.illinois.edu/pdf/kdd16_xren.pdf)", in Proc. of 2016 ACM SIGKDD Conf. on Knowledge Discovery and Data Mining (KDD'16), San Francisco, CA, Aug. 2016
 - Xiang Ren, Ahmed El-Kishky, Chi Wang, Fangbo Tao, Clare R. Voss, Heng Ji, Jiawei Han, "[ClusType: Effective Entity Recognition and Typing by Relation Phrase-Based Clustering](http://hanj.cs.illinois.edu/pdf/kdd15_xren.pdf)", in Proc. of 2015 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD'15), Sydney, Australia, Aug. 2015
 
-### Part III. Meta Pattern-Driven Attribute Discovery
+### Part III. Pattern-based Methods for Attribute Discovery
 [slides][[MetaPAD](https://github.com/mjiang89/MetaPAD)]
 
 - Meng Jiang, Jingbo Shang, Taylor Cassidy, Xiang Ren, Lance Kaplan, Timothy Hanratty and Jiawei Han, "[MetaPAD: Meta Patten Discovery from Massive Text Corpora](http://hanj.cs.illinois.edu/pdf/kdd17_mjiang.pdf)", in Proc. of 2017 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD'17), Halifax, Nova Scotia, Canada, Aug. 2017
