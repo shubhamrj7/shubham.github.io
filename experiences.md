@@ -10,12 +10,10 @@ permalink: /experiences/
   * Software Engineering Intern
   * May - Aug 2017, New York City, NY
   * To break the [filter bubble](https://en.wikipedia.org/wiki/Filter_bubble), a subtask is that given a thought-provoking question, from massive text corpora, identify a small subset of news articles exactly/incidentally addressing the question.
-
 - **Local Quality Search Team, Google**
   * Software Engineering Intern
   * May - Aug 2016, New York City, NY
   * From review data, using machine learning and MapReduce techniques, efficiently and significantly improve the quality of Related Place Set project.
-
 - **Urban Computing Group, Microsoft Research Asia**
   * Research Intern
   * Aug 2013 - Feb 2014
@@ -48,14 +46,12 @@ permalink: /experiences/
 - High School Olympiad Informatics
   * **Silver medal** in [China National Olympiad Informatics (NOI)](https://en.wikipedia.org/wiki/National_Olympiad_in_Informatics,_China) 2008
   * **Gold medal** in [the third Asia-Pacific Informatics Olympiad (APIO)](http://apio-olympiad.org/2009/results.html) 2009.
-
 - [International Collegiate Programming Competition (ACM/ICPC)](https://icpc.baylor.edu/)
   * Representing Shanghai Jiao Tong University
   * **6** times Asian Regional **Champions** from 2010 to 2012
   * **Gold medal, 2nd Place, Asian Champion** in World Finals 2013
     * "[SJTU Students Swept ACM-ICPC Final Golds](http://en.sjtu.edu.cn/news/sjtu-students-swept-acm-icpc-final-golds/)
   * 13th place in World Finals 2011
-
 - International Personal Competitions
   * [Topcoder](https://www.topcoder.com/tc/)
     * handle: **[<span style="color:red">shangjingbo</span>](https://www.topcoder.com/members/shangjingbo/)**
