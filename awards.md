@@ -15,7 +15,7 @@ permalink: /awards/
 
 # 2015
 
-- Yelp Dataset Challenge Award, **Round-4 **winner**, [[Yelp](https://www.yelp.com/dataset_challenge)]
+- Yelp Dataset Challenge Award, **Round-4 winner**, [[Yelp](https://www.yelp.com/dataset_challenge)]
 - Prostate Cancer DREAM Challenge, **Task 1A Winner**, [[DREAM Challenge](https://www.synapse.org/#!Synapse:syn2813558/wiki/)]
 - Computer Science Excellence Fellowship, [[CS@ILLINOIS](https://cs.illinois.edu/about-us/awards/graduate-fellowships-awards/computer-science-excellence-fellowship)]
 
