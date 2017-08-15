@@ -38,7 +38,8 @@ permalink: /experiences/
     * Aug. 2017 - Present
 - **Assistant Coach** of UIUC ACM/ICPC Team.
     * Aug. 2014 - Aug. 2017
-    * [ILLINOIS TEAM ADVANCES TO ICPC WORLD FINALS](https://cs.illinois.edu/news/illinois-team-advances-icpc-world-finals)
+    * 2017: coming soon
+    * 2016: [Illinois Team Advances to ICPC World Finals](https://cs.illinois.edu/news/illinois-team-advances-icpc-world-finals)
 - **Assistant Coach** of SJTU ACM/ICPC Team.
     * Aug. 2011 - Jun. 2014
 
