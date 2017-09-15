@@ -36,7 +36,7 @@ permalink: /experiences/
     * Aug. 2017 - Present
 - **Assistant Coach** of UIUC ACM/ICPC Team.
     * Aug. 2014 - Aug. 2017
-    * 2017: coming soon
+    * 2017: [CS@ILLINOIS Team Tests Problem-Solving Skills at ICPC 2017](http://cs.illinois.edu/news/cs-illinois-team-tests-problem-solving-skills-icpc-2017)
     * 2016: [Illinois Team Advances to ICPC World Finals](https://cs.illinois.edu/news/illinois-team-advances-icpc-world-finals)
 - **Assistant Coach** of SJTU ACM/ICPC Team.
     * Aug. 2011 - Jun. 2014
