@@ -27,7 +27,7 @@ permalink: /experiences/
     * Course website: [CS491 CAP](https://pages.github-dev.cs.illinois.edu/sig-icpc/cs491-cap)
 - **Instructor**, CS491 WF, Intro to Competitive Algorithmic Programming, UIUC.
     * Fall 2015, 2016, and 2017
-- **Teaching Assistant** of [Data Mining Specialization, UIUC & Coursera](https://www.coursera.org/specializations/data-mining).
+- **Teaching Assistant**, [Data Mining Specialization, UIUC & Coursera](https://www.coursera.org/specializations/data-mining).
     * Spring and Fall 2015
 
 ## Coaching Experience
@@ -50,7 +50,7 @@ permalink: /experiences/
   * Representing Shanghai Jiao Tong University
   * **6** times Asian Regional **Champions** from 2010 to 2012
   * **Gold medal, 2nd Place, Asian Champion** in World Finals 2013
-    * "[SJTU Students Swept ACM-ICPC Final Golds](http://en.sjtu.edu.cn/news/sjtu-students-swept-acm-icpc-final-golds/)
+    * [SJTU Students Swept ACM-ICPC Final Golds](http://en.sjtu.edu.cn/news/sjtu-students-swept-acm-icpc-final-golds/)
   * 13th place in World Finals 2011
 - International Personal Competitions
   * [Topcoder](https://www.topcoder.com/tc/)
