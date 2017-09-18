@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Experience
+title: Experiences
 permalink: /experiences/
 ---
 
-## Professional Experience
+## Professional Experiences
 
 - **Structure Data Team, Google Research**
   * Software Engineering Intern
@@ -20,7 +20,7 @@ permalink: /experiences/
   * Using the massive trajectory data from taxi in Beijing, accurately predict the traffic and the caused air pollution by context-aware matrix factorization and graphical models.
 
 
-## Teaching Experience
+## Teaching Experiences
 
 - **Instructor**, CS491 CAP, Competitive Algorithmic Programming, UIUC
     * Spring 2016 and 2017
@@ -30,7 +30,7 @@ permalink: /experiences/
 - **Teaching Assistant**, [Data Mining Specialization, UIUC & Coursera](https://www.coursera.org/specializations/data-mining).
     * Spring and Fall 2015
 
-## Coaching Experience
+## Coaching Experiences
 
 - **Coach** of UIUC ACM/ICPC Team.
     * Aug. 2017 - Present
@@ -41,7 +41,7 @@ permalink: /experiences/
 - **Assistant Coach** of SJTU ACM/ICPC Team.
     * Aug. 2011 - Jun. 2014
 
-## Algorithmic Programming Competition Experience
+## Algorithmic Programming Competition Experiences
 
 - High School Olympiad Informatics
   * **Silver medal** in [China National Olympiad Informatics (NOI)](https://en.wikipedia.org/wiki/National_Olympiad_in_Informatics,_China) 2008
