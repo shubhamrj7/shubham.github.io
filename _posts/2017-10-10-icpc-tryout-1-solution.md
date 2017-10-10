@@ -8,7 +8,7 @@ categories: editorials
 
 ## Problemset
 
-The problemset is available [here](./files/uiuc_2017_tryout_1.pdf)
+The problemset is available [here](/files/uiuc_2017_tryout_1.pdf)
 
 ## Solutions
 
