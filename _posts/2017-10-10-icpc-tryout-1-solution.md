@@ -18,11 +18,8 @@ This is a similar problem to ```A + B```. You just need to compare two direction
 
 Pay close attentions to the following special case mentioned in the output section.
 
-```
-If the two input numbers are diametrically opposed, 
-the needle should travel clockwise. 
-I.e., in this case, output 180 rather than  180.
-```
+- If the two input numbers are diametrically opposed, the needle should travel clockwise. 
+- I.e., in this case, output 180 rather than 180.
 
 ### Problem B. Game Rank
 
@@ -41,8 +38,8 @@ We have the following two observations:
 
 As a result, we have a greedy algorithm as follows.
 
-1. Find all connected components (via L) of the current L's using BFS. This part is O(n^2).
-2. Treat the components in Step 1 as nodes, find the connected components (via C) again using BFS. This part is also O(n^2).
+1. Find all connected components (via L) of the current L's using BFS. This part is \\(O(n^2)\\).
+2. Treat the components in Step 1 as nodes, find the connected components (via C) again using BFS. This part is also \\(O(n^2)\\).
 3. The answer is the number of components in Step 2.
 
 In fact, we can combine these two BFSs. Every time, we start from a L cell (not visited before) and expand via both L and C as far as possible. This is equivalent to the previous 2-stage BFS.
@@ -52,56 +49,57 @@ In fact, we can combine these two BFSs. Every time, we start from a L cell (not 
 
 This problem has an important condition as the following. It puts the constraint on the total lengths of the dictionary.
 
-```
-The dictionary and the words to type only use lower case letters ‘a’-‘z’. 
-The total size of the input file is at most 1 MB.
-```
+- The dictionary and the words to type only use lower case letters ‘a’-‘z’. 
+- The total size of the input file is at most 1 MB.
+
 It reminds us again that important conditions may be hidden in the Input/Output sections.
 
 The solution is as follows.
 
-- First, let's construct a Trie for all input words. On each node, we can also store the most common word (denoted as complete[u] for node u, which is also a node id in the Trie). This can be easily achieved by assigning the word to the newly created node because the input words are already ordered from the most common to the least common.
-- Second, let's use the nodes in the Trie as the state for the dynamic programming. We use f[u] to denote the minimum number of keystrokes to reach the node u. Based on the statement, we have the following transitions.
-    - Press the tab. Then, we can use f[u] + 1 to update f[complete[u]].
-    - Press the backspace. Then, we can use f[u] + 1 to update f[parent[u]].
-    - Press some real keys. Then, we can use f[u] + 1 to update f[child_1[u]], f[child_2[u]], ..., f[child_k[u]].
-- Obviously, the initial state is that f[root] = 0.
+- First, let's construct a Trie for all input words. On each node, we can also store the most common word (denoted as \\(complete[u]\\) for node \\(u\\), which is also a node id in the Trie). This can be easily achieved by assigning the word to the newly created node because the input words are already ordered from the most common to the least common.
+- Second, let's use the nodes in the Trie as the state for the dynamic programming. We use \\(f[u]\\) to denote the minimum number of keystrokes to reach the node u. Based on the statement, we have the following transitions.
+    - Press the tab. Then, we can use \\(f[u] + 1\\) to update \\(f[complete[u]]\\).
+    - Press the backspace. Then, we can use \\(f[u] + 1\\) to update \\(f[parent[u]]\\).
+    - Press some real keys. Then, we can use \\(f[u] + 1\\) to update \\(f[child_{u, 1}], f[child_{u, 2}], \ldots , f[child_{u, k}]\\).
+- Obviously, the initial state is that \\(f[root] = 0\\).
 
-It's a little hard to figure out the order of these states. However, if we take a closer look at this dynamic programming, it is actually a shortest path problem. Moreover, the edge weights are always 1. Therefore, we can apply a simple BFS to address this problem. The final time complexity is O(the total length of the input words).
+It's a little hard to figure out the order of these states. However, if we take a closer look at this dynamic programming, it is actually a shortest path problem. Moreover, the edge weights are always 1. Therefore, we can apply a simple BFS to address this problem. The final time complexity is \\(O(\mbox{the total length of the input words})\\).
 
 
 ### Problem E. Paint
 
 This is an easy DP problem as long as you noticed that ```However, they don’t like each other, and each painter will only paint their given portion of the fence if no other painter overlaps their portion.```. It's equivalent to finding some intervals without overlaps but maximize the coverage.
 
-Although the intervals may span over [1..10^18], there are at most 2k important points, which are the ends of the k input intervals. We sort these unique, important points and store them as x[1..m]. Use f[i] be the maximum coverage if we only considering 1..x[i]. There are two choices if we want to use f[i] to update something else.
+Although the intervals may span over \\([1..10^18]\\), there are at most \\(2k\\) important points, which are the ends of the k input intervals. We sort these unique, important points and store them as \\(x[1..m]\\). Use \\(f[i]\\) be the maximum coverage if we only considering \\(1..x[i]\\). There are two choices if we want to use f[i] to update something else.
 
-  - If we have some interval covers x[i + 1] to x[j], we can then use f[i] + x[j] - x[i + 1] + 1 to update f[j].
-  - We can always use f[i] to update f[i + 1].
+  - If we have some interval covers \\(x[i + 1]\\) to \\(x[j]\\), we can then use \\(f[i] + x[j] - x[i + 1] + 1\\) to update \\(f[j]\\).
+  - We can always use \\(f[i]\\) to update \\(f[i + 1]\\).
 
-As any interval from x[i] to x[j] will be only used once when using f[i - 1] to update f[j], thus, the time complexity is O(k).
+As any interval from \\(x[i]\\) to \\(x[j]\\) will be only used once when using \\(f[i - 1]\\) to update \\(f[j]\\), thus, the time complexity is \\(O(k)\\).
 
 
 ### Problem F. Exponial
 
 To solve this problem, you should know the following theorem.
 
-```
-x ^ y % m = x ^ (y % phi(m) + phi(m)) % m
-```
-where ```phi(m)``` is the Euler's totient function, which is the number of integers between 1 to m, which is co-primed to m.
+\begin{equation}
+x ^ y \equiv x ^ {y\ mod\ phi(m) + phi(m)}\ (mod\ m)
+\end{equation}
 
-The following one is more famous but only holds when ```gcd(x, m) = 1```. Two contestants tried to applied this formula but failed to generalize it as the above.
-```
-x ^ y % m = x ^ (y % phi(m)) % m
-```
+where \\(phi(m)\\) is the [Euler's totient function](https://en.wikipedia.org/wiki/Euler%27s_totient_function), which is the number of integers between \\(1\\) to \\(m\\), which are co-primed to \\(m\\).
+
+The following one is more famous but only holds when \\(gcd(x, m) = 1\\). Two contestants tried to applied this formula but failed to generalize it as the above.
+\begin{equation}
+x ^ y \equiv x ^ {y\ mod\ phi(m)}\ (mod\ m)
+\end{equation}
 
 Therefore, we can simplify the problem recursively.
 
-```
-f(n) % m = n^f(n - 1) % m = n^(f(n - 1) % phi(m) + phi(m)) % m
-```
-It reduces the problem to ```f(n - 1) % phi(m)``` from ```f(n) % m```.
+\begin{equation}
+f(n) \equiv n^{f(n - 1)} \equiv n^{f(n - 1)\ mod\ phi(m) + phi(m)}\ mod\ m
+\end{equation}
+
+It reduces the problem to ```f(n - 1) mod phi(m)``` from ```f(n) mod m```.
 
 Another important observation is that 
 
@@ -121,9 +119,9 @@ For many "offline" problems, thinking about the reserved order is always helpful
 
 ### Problem H. Card Hand Sorting
 
-This problem needs bruteforce + dynamic programming. Since the order of suits and the direction (i.e., increasing or decreasing) within each suit are not determined yet, we can first spend ```4! * 2^4``` to enumerate them.
+This problem needs bruteforce + dynamic programming. Since the order of suits and the direction (i.e., increasing or decreasing) within each suit are not determined yet, we can first spend \\(4! * 2^4\\) to enumerate them.
 
-After the enumeration, we know the full order of all cards. Then, this problem is the same as the longest increasing subsequence (LIS) problem, which is a classical DP problem. If you don't know how to solve it, please Google it.
+After the enumeration, we know the full order of all cards. Then, this problem is the same as the longest increasing subsequence (LIS) problem, which is a classical DP problem. If you don't know how to solve it, please [Google it](https://stackoverflow.com/questions/2631726/how-to-determine-the-longest-increasing-subsequence-using-dynamic-programming).
 
 ### Problem I. Illumination
 
