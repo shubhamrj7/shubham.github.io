@@ -9,7 +9,7 @@ Looking for full? visit [Google Scholar](https://scholar.google.com/citations?us
 
 1.   **Jingbo Shang**, Jialu Liu, Meng Jiang, Xiang Ren, Clare R Voss, Jiawei Han, "[Automated Phrase Mining from Massive Text Corpora](https://arxiv.org/abs/1702.04457)", submitted to TKDE, under review. [[code](https://github.com/shangjingbo1226/AutoPhrase)]
 1.   **Jingbo Shang**, Meng Qu, Jialu Liu, Lance M. Kaplan, Jiawei Han, and Jian Peng, "[Meta-Path Guided Embedding for Similarity Search in Large-Scale Heterogeneous Information Networks](https://arxiv.org/abs/1610.09769)", to be submitted. [[code](https://github.com/shangjingbo1226/ESim)]
-1.   Liyuan Liu, Jingbo Shang, Frank Xu, Xiang Ren, Huan Gui, Jian Peng, Jiawei Han, "[Empower Sequence Labeling with Task-Aware Neural Language Model](https://arxiv.org/abs/1709.04109)", submitted, under review. [[code](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF)][[project page](https://liyuanlucasliu.github.io/LM-LSTM-CRF/)]
+1.   Liyuan Liu, **Jingbo Shang**, Frank Xu, Xiang Ren, Huan Gui, Jian Peng, Jiawei Han, "[Empower Sequence Labeling with Task-Aware Neural Language Model](https://arxiv.org/abs/1709.04109)", submitted, under review. [[code](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF)][[project page](https://liyuanlucasliu.github.io/LM-LSTM-CRF/)]
 
 ### Selected Publications
 

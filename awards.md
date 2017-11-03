@@ -9,6 +9,7 @@ permalink: /awards/
 - Google PhD Fellowship [[Google](https://research.googleblog.com/2017/04/announcing-2017-google-phd-fellows-for.html)] [[CS@ILLINOIS](http://www.grad.illinois.edu/news/two-illinois-graduate-students-win-google-fellowship)]
   * One of the 33 recipients from North America, Europe and the Middle East.
   * **Sole winner** in Structured Data and Database Management from North America.
+- The **Champion** of [ITA Challenge 2017](https://www.itatechchallenge.com/leaderboard).
 - [Fake News Challenge](http://www.fakenewschallenge.org/) \#1
   * **4th** place
   * code: [github repo](https://github.com/shangjingbo1226/fnc-1)
