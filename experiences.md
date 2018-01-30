@@ -27,6 +27,7 @@ permalink: /experiences/
     * Course website: [CS491 CAP](https://pages.github-dev.cs.illinois.edu/sig-icpc/cs491-cap)
 - **Instructor**, CS491 WF, Intro to Competitive Algorithmic Programming, UIUC.
     * Fall 2015, 2016, and 2017
+    * Course website: [CS491 WF](https://pages.github-dev.cs.illinois.edu/sig-icpc/cs491-wf/)
 - **Teaching Assistant**, [Data Mining Specialization, UIUC & Coursera](https://www.coursera.org/specializations/data-mining).
     * Spring and Fall 2015
 
