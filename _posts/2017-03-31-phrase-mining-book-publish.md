@@ -2,7 +2,8 @@
 layout: post
 title:  "Phrase Mining Book Published!"
 date:   2017-03-31 08:00:00 -0400
-categories: kdd tutorial 2017
+tags: book publication
+image: /img/phrase_mining_book.png
 ---
 
 Together with Jialu and Prof. Han, we have written a phrase mining book "[Phrase Mining from Massive Text and Its Applications](http://www.morganclaypool.com/doi/10.2200/S00759ED1V01Y201702DMK013)". It mainly covers the following work:

@@ -2,7 +2,7 @@
 layout: post
 title:  "Our KDD 2017 Tutorial on This Sunday!"
 date:   2017-08-11 08:00:00 -0400
-categories: kdd tutorial 2017
+tags: kdd tutorial 2017
 ---
 
 ### SIGKDD 2017 Tutorial:

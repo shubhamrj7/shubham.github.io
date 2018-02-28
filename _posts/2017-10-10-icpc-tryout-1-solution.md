@@ -2,7 +2,7 @@
 layout: post
 title:  "2017 UIUC ICPC Tryout 1 Solutions"
 date:   2017-10-10 16:50:00 -0400
-categories: editorials
+tags: editorials icpc
 ---
 
 

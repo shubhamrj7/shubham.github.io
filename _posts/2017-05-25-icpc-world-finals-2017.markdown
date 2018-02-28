@@ -2,7 +2,8 @@
 layout: post
 title:  "ACM/ICPC World Finals 2017"
 date:   2017-05-25 23:00:00 -0400
-categories: award news
+tag: news award icpc
+image: /img/uiuc-wf2017.jpg
 ---
 
 ![](/img/uiuc-wf2017.jpg)
