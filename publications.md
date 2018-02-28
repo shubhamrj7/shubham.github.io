@@ -8,7 +8,7 @@ Looking for full? visit [Google Scholar](https://scholar.google.com/citations?us
 ### Under Review Preprints
 
 1.   **Jingbo Shang**, Tianhang Sun, Jiaming Shen, Xingbang Liu, Anja Gruenheid, Flip Korn, Adam Lelkes, Cong Yu, Jiawei Han, "[Investigating Rumor News Using Agreement-Aware Search](https://arxiv.org/abs/1802.07398)", submitted to SIGKDD 2018, under review. [[code](https://github.com/shangjingbo1226/Maester)]
-1.   **Jingbo Shang**, Xiyao Shi, Meng Jiang, Liyuan Liu, Timothy Hanratty, Jiawei Han, "[Contrast Subgraph Mining from Coherent Cores](https://arxiv.org/abs/1802.06189)", submitted to SIGKDD 18, under review. [[code](https://github.com/shangjingbo1226/ContrastSubgraphMining)]
+1.   **Jingbo Shang**, Xiyao Shi, Meng Jiang, Liyuan Liu, Timothy Hanratty, Jiawei Han, "[Contrast Subgraph Mining from Coherent Cores](https://arxiv.org/abs/1802.06189)", submitted to SIGKDD 2018, under review. [[code](https://github.com/shangjingbo1226/ContrastSubgraphMining)]
 1.   **Jingbo Shang**, Meng Qu, Jialu Liu, Lance M. Kaplan, Jiawei Han, and Jian Peng, "[Meta-Path Guided Embedding for Similarity Search in Large-Scale Heterogeneous Information Networks](https://arxiv.org/abs/1610.09769)", to be submitted. [[code](https://github.com/shangjingbo1226/ESim)]
 
 ### Selected Publications
