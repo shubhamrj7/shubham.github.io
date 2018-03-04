@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Looking for CV?
+title: About
 permalink: /about/
 ---
 <center>
