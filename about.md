@@ -3,9 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
-<center>
-<u><b><a href="https://www.dropbox.com/s/0hhgr93imqiof9o/Jingbo_Shang_20180304.pdf?dl=1">CV</a></b></u>
-</center>
+
+<p align="left">
+    <a href="https://www.dropbox.com/s/0hhgr93imqiof9o/Jingbo_Shang_20180304.pdf?dl=1">
+        <img alt="PDF version CV" src="https://img.shields.io/badge/Curriculum Vitae-PDF-blue.svg">
+    </a>
+</p>
 
 **Research Interests**: Constructing and mining knowledge from massive unstructured text corpora with minimal human effort. The minimal human effort refers to only using public, general knowledge bases and shallow linguistic analyzers (e.g., tokenizer).
 
