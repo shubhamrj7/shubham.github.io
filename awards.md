@@ -4,6 +4,11 @@ title: Awards
 permalink: /awards/
 ---
 
+# 2018
+
+- C.W. Gear Outstanding Graduate Award
+  * This award is for one outstanding graduate student each year in the CS Department at UIUC. [[Details](https://cs.illinois.edu/about-us/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student)]
+
 # 2017
 
 - Google PhD Fellowship [[Google](https://research.googleblog.com/2017/04/announcing-2017-google-phd-fellows-for.html)] [[CS@ILLINOIS](http://www.grad.illinois.edu/news/two-illinois-graduate-students-win-google-fellowship)]
