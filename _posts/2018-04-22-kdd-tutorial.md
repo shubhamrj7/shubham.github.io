@@ -8,12 +8,12 @@ tags: kdd tutorial 2018
 ### SIGKDD 2018 Tutorial:
 <center>
 <h1>
-Multi-Dimensional Analysis for Massive Text Corpora
+Towards Multidimensional Analysis of Text Corpora
 </h1>
 Jingbo Shang, Chao Zhang, Jiaming Shen, Jiawei Han<br/>
 Computer Science Department, University of Illinois at Urbana-Champaign<br/>
-Time: <b>TBD</b><br/>
-Location: <b>TBD</b><br/>
+Time: <b>August 19, 2018, 1:00PM - 5:00PM</b><br/>
+Location: <b>ICC Capital Suite Room 4</b><br/>
 </center>
 
 ## Abstract
