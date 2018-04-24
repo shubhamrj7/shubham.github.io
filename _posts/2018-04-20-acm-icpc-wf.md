@@ -21,7 +21,11 @@ Before the contest, the host brought us to the famous Great Wall in Beijing. The
 ![](/img/uiuc-wf2018-great-wall.jpg)
 From left to right: Mattox Beckman, Jingbo Shang, Shunping Xie, Xiyao Shi.
 
-Before the scoreboard became frozen (i.e., 4 hours), Unicorn only has 2 problems solved, although they have tried the problem A. At that time, I felt worried about their final rankings, since 2 problems can only make the honorable mention :(. I carefully monitored their work station, and suddenly, I found they have a new submission on the problem K and they looked very happy! In the last 10 minutes, they submitted the problem A again, and they stood up together, walked around the arena, and made others very surprised! Some spectators even wondered whether they have killed all problems! I quickly checked with Tianwei, one of the team members, "4 problems?". And he returned me a smile and a nod. I'm proud of Unicorn! Thanks for all your dedicated practice in this semester! All efforts finally pay off.
+Before the scoreboard became frozen (i.e., 4 hours), Unicorn only has 2 problems solved, although they have tried the problem A. At that time, I felt worried about their final ranking, since 2 problems can only make the honorable mention :(. I carefully monitored their work station, and suddenly, I found they have a new submission to the problem K and they looked exciting! Therefore, I bet they have passed problem K.
+
+In the last 10 minutes, they submitted the problem A again, and they stood up together, walked around the arena, and made others very surprised! Some spectators even wondered whether they have killed all problems! This is a very nice bluffing! I quickly checked with Tianwei, one of the team members, "4 problems?". And he returned me a smile and a nod. 
+
+Thanks for all your dedicated practice in this semester! All efforts finally pay off. I'm proud of Unicorn!
 
 ### Next Year
 
