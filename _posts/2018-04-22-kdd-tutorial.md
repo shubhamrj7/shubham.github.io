@@ -26,6 +26,10 @@ from text corpora of different kinds (especially for massive, domain-specific te
 Such constructed text cubes can further enhance *information networks mining* problems by providing more structure information and guidance.
 We focus on methods that are weakly-supervised, domain-independent, and language-agnostic for fast, high-quality text cube and network construction in various domains (e.g., news, computer science, and biomedical sciences). We demonstrate on real datasets including news articles, scientific publications, and product reviews on how text cubes and information networks can be constructed to assist multidimensional analysis of massive text corpora.
 
+## Slides
+
+[[preliminary version](https://www.dropbox.com/s/joe3i4cskg1dp4u/kdd18-preliminary-version.pdf?dl=0)]
+
 ## Outline
 
 1. Introduction
