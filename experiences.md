@@ -6,6 +6,9 @@ permalink: /experiences/
 
 ## Professional Experiences
 
+- **Two Sigma** 
+  * Quantitative Research Intern
+  * Jun - Aug 2018, New York City, NY
 - **Structure Data Team, Google Research**
   * Software Engineering Intern
   * May - Aug 2017, New York City, NY
