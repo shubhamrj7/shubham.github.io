@@ -33,11 +33,10 @@ We focus on methods that are weakly-supervised, domain-independent, and language
 ## Outline
 
 1. Introduction
-    - Motivations
+    - Motivations & Prior Arts
     - Overview of Multidimensional Text Analysis
 2. Phrase Mining and Entity Recognition
     - What are quality phrases?
-    - Relations to Named Entity Recognition
     - Supervised Methods
         * Noun Phrase Chunking Methods
         * Named Entity Recognition Methods
@@ -52,7 +51,20 @@ We focus on methods that are weakly-supervised, domain-independent, and language
     - Weakly/Distantly Supervised Methods
         * Phrasal Segmentation and its Variants
         * How to leverage distant supervision?
-3. Taxonomy Construction
+3. Named Entity Recognition
+    - What is named entity recognition?
+    - Handcrafted Features + Human Supervision
+        * Classical Models: Conditional Random Filed
+        * Standford NER
+        * Twitter NER
+    - Automated Features + Human Supervision
+        * LSTM-CRF, LSTM-CNN-CRF, ...
+        * LM-LSTM-CRF, EMLo, Flair, ...
+        * Multi-task learning
+    - Automated Features + Distant Supervision
+        * AutoEntity, SwellShark, ClusType, Distant-LSTM-CRF, ...
+        * FuzzyCRF & AutoNER
+4. Taxonomy Construction
     - Cluster-based Taxonomy Construction
         * Hierarchical Topic Modeling
         * General Graphical Model Approach
@@ -62,14 +74,13 @@ We focus on methods that are weakly-supervised, domain-independent, and language
         * Pattern-based Methods
         * Supervised Methods
         * Weakly-supervised Methods
-4. Text Cube Construction
+5. Text Cube Construction and Multidimensional Explorations for Effective Knowledge Discovery 
     - Supervised Models
         * Text Classification Models
         * Adaption for Cube Construction
     - Weakly Supervised and Unsupervised Models
         * Weakly Supervised Models
         * Unsupervised Models
-5. Exploring Multidimensional Structures for Effective Knowledge Discovery
     - Cube-based Multidimensional Analysis
         * Statistical Measures Aggregation
         * Phrase-based Cell Summarization
@@ -77,14 +88,11 @@ We focus on methods that are weakly-supervised, domain-independent, and language
     - Integrating Text Cube with HIN
         * HIN Embedding
         * Cube-Aided HIN Embedding and Mining
-6. System Demos
-    - Multilingual Phrase Mining Demo & APIs
-    - CaseOLAP: Text Cube Summarization
-7. Summary and Future Directions
+6. Summary and Future Directions
     - Summary of Multidimensional Text Analysis
         * Principles and Techniques
         * AdvantagesandLimitations
-        * How to choose a method based on your appli- cation?
+        * How to choose a method based on your application?
     - Future Directions
 
 ## Presenters
