@@ -12,7 +12,7 @@ Looking for full? visit [Google Scholar](https://scholar.google.com/citations?us
 
 ### Selected Publications
 
-1. Jingbo Shang, Liyuan Liu, Xiaotao Gu, Xiang Ren, Teng Ren and Jiawei Han, "Learning Named Entity Tagger using Domain-Specific Dictionary", in Proc. of 2018 Conf. on Empirical Methods in Natural Language Processing (EMNLP'18), Brussels, Belgium, Oct. 2018
+1. **Jingbo Shang**, Liyuan Liu, Xiaotao Gu, Xiang Ren, Teng Ren and Jiawei Han, "Learning Named Entity Tagger using Domain-Specific Dictionary", in Proc. of 2018 Conf. on Empirical Methods in Natural Language Processing (EMNLP'18), Brussels, Belgium, Oct. 2018
 1.   **Jingbo Shang**, Tianhang Sun, Jiaming Shen, Xingbang Liu, Anja Gruenheid, Flip Korn, Adam Lelkes, Cong Yu, Jiawei Han, "[Investigating Rumor News Using Agreement-Aware Search](https://arxiv.org/abs/1802.07398)", in Proc. of 2018 ACM Int. Conf. on Information and Knowledge Management (CIKM'18), Turin, Italy, Oct. 2018. [[code](https://github.com/shangjingbo1226/Maester)]
 1.   **Jingbo Shang**, Jialu Liu, Meng Jiang, Xiang Ren, Clare R Voss, Jiawei Han, "[Automated Phrase Mining from Massive Text Corpora](https://arxiv.org/abs/1702.04457)", accepted by IEEE Transactions on Knowledge and Data Engineering, Feb. 2018. [[code](https://github.com/shangjingbo1226/AutoPhrase)]
 1.   Liyuan Liu, **Jingbo Shang**, Frank Xu, Xiang Ren, Huan Gui, Jian Peng, Jiawei Han, "[Empower Sequence Labeling with Task-Aware Neural Language Model](https://arxiv.org/abs/1709.04109)", in Proc. of 2018 AAAI Conf. on Artificial Intelligence (AAAI'18), New Orleans, LA, Feb. 2018. [[code](https://github.com/LiyuanLucasLiu/LM-LSTM-CRF)][[project page](https://liyuanlucasliu.github.io/LM-LSTM-CRF/)]
