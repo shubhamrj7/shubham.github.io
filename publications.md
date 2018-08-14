@@ -29,6 +29,7 @@ Looking for full? visit [Google Scholar](https://scholar.google.com/citations?us
 
 ### Conference Tutorials
 
+1.   **Jingbo Shang**, Chao Zhang, Jiaming Shen, Jiawei Han, "[Towards Multidimensional Analysis of Text Corpora](https://shangjingbo1226.github.io/2018-04-21-kdd-tutorial/)", Proc. of 2018 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD'18), (Conference Tutorial), London, UK, Aug. 2018.
 1.   **Jingbo Shang**, Xiang Ren, Meng Jiang, and Jiawei Han, "[Mining Entity-Relation-Attribute Structures from Massive Text Data](/2017-08-11-kdd-tutorial/)", Proc. of 2017 ACM SIGKDD Int. Conf. on Knowledge Discovery and Data Mining (KDD'17), Halifax, Nova Scotia, Canada, August 2017.
 1.   Xiang Ren, Meng Jiang, **Jingbo Shang** and Jiawei Han, "Building Structured Databases of Factual Knowledge from Massive Text Corpora", Proc. of 2017 ACM SIGMOD Int. Conf. on Management of Data (SIGMOD'17), June 2017.
 1.   Xiang Ren, Meng Jiang, **Jingbo Shang** and Jiawei Han, "[Constructing Structured Information Networks from Massive Text Corpora](http://xren7.web.engr.illinois.edu/www17tutorial.html)", Proc. of 2017 World-Wide Web Conf. (WWW'17), Perth, Australia, Apr. 2017.
