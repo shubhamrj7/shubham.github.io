@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "KDD 2018 Tutorial Accepted!"
+title:  "KDD 2018 Tutorial Accepted! (Tutorial Page)"
 date:   2018-04-21 08:00:00 -0400
 tags: kdd tutorial 2018
 ---
