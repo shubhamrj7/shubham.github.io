@@ -4,6 +4,20 @@ title:
 permalink: /experiences/
 ---
 
+## Conference Program Committee
+
+ACM International Conference on Information and Knowledge Management (CIKM), 2018
+
+ACM International Conference on Information and Knowledge Management (CIKM), 2017
+
+## Journal Reviewer
+
+IEEE Transactions on Knowledge and Data Engineering (TKDE), 2017, 2018
+
+ACM Transactions on Intelligent Systems and Technology (TIST), 2018
+
+IEEE Transactions on Big Data (TBD), 2017
+
 ## Professional Experiences
 
 - **Two Sigma Investments LP**, New York City, NY,  Jun - Aug 2018
