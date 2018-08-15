@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Awards
+title: 
 permalink: /awards/
 ---
 
@@ -25,10 +25,10 @@ permalink: /awards/
 - Prostate Cancer DREAM Challenge, **Task 1A Winner**, [[DREAM Challenge](https://www.synapse.org/#!Synapse:syn2813558/wiki/)]
 - Computer Science Excellence Fellowship, [[CS@ILLINOIS](https://cs.illinois.edu/about-us/awards/graduate-fellowships-awards/computer-science-excellence-fellowship)]
 
-# Undergraduate
+# 2014 and Before
 
 - **Gold medal, 2nd Place, Asian Champion** in ACM International Collegiate Programming Competition (ICPC) **World Finals 2013**
-  * More related awards in [Experience]({{ site.urls }}/experience)
+  * Much more related awards in [Experience]({{ site.urls }}/experiences)
 - **National** Scholarship (China)
 - Dow Chemical Company Scholarship (China)
 - Bosch Scholarship (China)
