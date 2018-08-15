@@ -4,6 +4,10 @@ title:
 permalink: /experiences/
 ---
 
+<p align="center">
+A selection of my experiences, grouped by categories.
+</p>
+
 ## Conference Program Committee
 
 ACM International Conference on Information and Knowledge Management (CIKM), 2018

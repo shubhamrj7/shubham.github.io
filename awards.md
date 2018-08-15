@@ -3,6 +3,9 @@ layout: page
 title: 
 permalink: /awards/
 ---
+<p align="center">
+A selection of my awards, sorted by time.
+</p>
 
 ## 2018
 
