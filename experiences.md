@@ -10,17 +10,14 @@ A selection of my experiences, grouped by categories.
 
 ## Conference Program Committee
 
-ACM International Conference on Information and Knowledge Management (CIKM), 2018
-
-ACM International Conference on Information and Knowledge Management (CIKM), 2017
+- ACM International Conference on Information and Knowledge Management (CIKM), 2018
+- ACM International Conference on Information and Knowledge Management (CIKM), 2017
 
 ## Journal Reviewer
 
-IEEE Transactions on Knowledge and Data Engineering (TKDE), 2017, 2018
-
-ACM Transactions on Intelligent Systems and Technology (TIST), 2018
-
-IEEE Transactions on Big Data (TBD), 2017
+- IEEE Transactions on Knowledge and Data Engineering (TKDE), 2017, 2018
+- ACM Transactions on Intelligent Systems and Technology (TIST), 2018
+- IEEE Transactions on Big Data (TBD), 2017
 
 ## Professional Experiences
 
