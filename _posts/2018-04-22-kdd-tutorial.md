@@ -16,6 +16,10 @@ Time: <b>August 19, 2018, 1:00PM - 5:00PM</b><br/>
 Location: <b>ICC Capital Suite Room 4</b><br/>
 </center>
 
+## Slides
+
+[[preliminary version](https://www.dropbox.com/s/1h6lup93dqam85r/kdd18-tutorial-slides.pdf?dl=0)]
+
 ## Abstract
 
 In today's information society, we are soaked with overwhelming amounts of natural-language text data, ranging from news articles and social media posts to research literature, medical records, and corporate reports. 
@@ -25,10 +29,6 @@ In this tutorial, we introduce data-driven methods to construct *structured text
 from text corpora of different kinds (especially for massive, domain-specific text corpora).
 Such constructed text cubes can further enhance *information networks mining* problems by providing more structure information and guidance.
 We focus on methods that are weakly-supervised, domain-independent, and language-agnostic for fast, high-quality text cube and network construction in various domains (e.g., news, computer science, and biomedical sciences). We demonstrate on real datasets including news articles, scientific publications, and product reviews on how text cubes and information networks can be constructed to assist multidimensional analysis of massive text corpora.
-
-## Slides
-
-[[preliminary version](https://www.dropbox.com/s/joe3i4cskg1dp4u/kdd18-preliminary-version.pdf?dl=0)]
 
 ## Outline
 
