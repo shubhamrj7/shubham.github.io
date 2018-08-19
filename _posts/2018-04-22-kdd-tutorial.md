@@ -18,7 +18,7 @@ Location: <b>ICC Capital Suite Room 4</b><br/>
 
 ## Slides
 
-[[preliminary version](https://www.dropbox.com/s/1h6lup93dqam85r/kdd18-tutorial-slides.pdf?dl=0)]
+[[preliminary version](https://www.dropbox.com/s/0ca5wjwutzrioie/kdd18-tutorial-slides.pdf?dl=0)]
 
 ## Abstract
 
