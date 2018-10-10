@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Check Our New NER Toolkit!"
-date:   2018-10-10 20:00:00 -0400
+date:   2018-10-10 18:00:00 -0400
 tags: ner toolkit github
 ---
 
