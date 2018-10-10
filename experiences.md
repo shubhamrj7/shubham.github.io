@@ -4,22 +4,7 @@ title:
 permalink: /experiences/
 ---
 
-<p align="center">
-A selection of my experiences, grouped by categories.
-</p>
-
-## Conference Program Committee
-
-- ACM International Conference on Information and Knowledge Management (CIKM), 2018
-- ACM International Conference on Information and Knowledge Management (CIKM), 2017
-
-## Journal Reviewer
-
-- IEEE Transactions on Knowledge and Data Engineering (TKDE), 2017, 2018
-- ACM Transactions on Intelligent Systems and Technology (TIST), 2018
-- IEEE Transactions on Big Data (TBD), 2017
-
-## Professional Experiences
+## <center>Employments</center>
 
 - **Two Sigma Investments LP**, New York City, NY,  Jun - Aug 2018
   * Quantitative Research Intern
@@ -30,25 +15,29 @@ A selection of my experiences, grouped by categories.
 - **Microsoft Research Asia**, Beijing, China, Aug 2013 - Feb 2014
   * Research Intern at Urban Computing Group
 
-## Teaching Experiences
+## <center>Teaching & Coaching</center>
 
-- **Instructor**, [CS491 CAP, Competitive Algorithmic Programming](https://pages.github-dev.cs.illinois.edu/sig-icpc/cs491-cap), UIUC
-    * Spring 2016, 2017, and 2018
-- **Instructor**, [CS491 WF, Intro to Competitive Algorithmic Programming](https://pages.github-dev.cs.illinois.edu/sig-icpc/cs491-wf/), UIUC.
-    * Fall 2015, 2016, and 2017
-- **Teaching Assistant**, [Data Mining Specialization, UIUC & Coursera](https://www.coursera.org/specializations/data-mining).
-    * Spring and Fall 2015
+- **Instructor**, [CS491 CAP, Competitive Algorithmic Programming](https://pages.github-dev.cs.illinois.edu/sig-icpc/cs491-cap), UIUC, Springs 2016, 2017, and 2018
+- **Instructor**, [CS491 WF, Intro to Competitive Algorithmic Programming](https://pages.github-dev.cs.illinois.edu/sig-icpc/cs491-wf/), UIUC, Falls 2015, 2016, 2017, and 2018
+- **Teaching Assistant**, [Data Mining Specialization, UIUC & Coursera](https://www.coursera.org/specializations/data-mining), Spring and Fall 2015
+- **Coach** of UIUC ACM/ICPC Team, Aug. 2014 - Present
+- **Assistant Coach** of SJTU ACM/ICPC Team, Aug. 2011 - Jun. 2014
 
-## Coaching Experiences
 
-- **Coach** of UIUC ACM/ICPC Team.
-    * Aug. 2014 - Present
-    * 2017: [CS@ILLINOIS Team Tests Problem-Solving Skills at ICPC 2017](http://cs.illinois.edu/news/cs-illinois-team-tests-problem-solving-skills-icpc-2017)
-    * 2016: [Illinois Team Advances to ICPC World Finals](https://cs.illinois.edu/news/illinois-team-advances-icpc-world-finals)
-- **Assistant Coach** of SJTU ACM/ICPC Team.
-    * Aug. 2011 - Jun. 2014
+## <center>Professional Service</center>
 
-## Programming Competition Experiences
+### Program Committee
+
+- SIAM International Conference on Data Mining (SDM), 2018
+- ACM International Conference on Information and Knowledge Management (CIKM), 2017--2018
+
+### Journal Reviewer
+
+- IEEE Transactions on Knowledge and Data Engineering (TKDE)
+- ACM Transactions on Intelligent Systems and Technology (TIST)
+- IEEE Transactions on Big Data (TBD)
+
+## <center>Competitive Programming</center>
 
 - [International Collegiate Programming Competition (ACM/ICPC)](https://icpc.baylor.edu/)
   * **Gold medal, 2nd Place, Asian Champion** in World Finals 2013
