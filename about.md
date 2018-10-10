@@ -4,14 +4,15 @@ title:
 permalink: /about/
 ---
 
-# <center>Short Bio</center>
-
 <p align="center">
     More details: 
     <a href="https://www.dropbox.com/s/me9ajxy3rvk2ooy/Jingbo_Shang_181010.pdf?dl=1">
         <img alt="PDF version CV" src="https://img.shields.io/badge/Curriculum Vitae-PDF-blue.svg">
     </a>
 </p>
+
+
+# <center>Short Bio</center>
 
 I am a final-year Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s [Data Mining Group](http://dm1.cs.uiuc.edu/) at [CS@Illinois](https://cs.illinois.edu/), and a [Google PhD Fellow](https://ai.google/research/outreach/phd-fellowship). I received my B.E. from Computer Science Department, Shanghai Jiao Tong Univ. (SJTU), China, where I was a member of the 2010 [ACM Honored class](http://acm.sjtu.edu.cn/), now part of Zhiyuan College in SJTU. 
 

@@ -4,6 +4,10 @@ title:
 permalink: /experiences/
 ---
 
+<p align="center">
+A selection of my <b>experiences</b>, grouped by categories.
+</p>
+
 ## <center>Employments</center>
 
 - **Two Sigma Investments LP**, New York City, NY,  Jun - Aug 2018

@@ -4,7 +4,9 @@ title:
 permalink: /awards/
 ---
 
-## <center>Selected Awards and Media Coverages</center>
+<p align="center">
+A selection of my <b>awards</b> and <b>media coverages</b>, sorted by time.
+</p>
 
 ### <center>2018</center>
 
