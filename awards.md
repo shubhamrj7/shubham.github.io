@@ -12,8 +12,7 @@ A selection of my <b>awards</b> and <b>media coverages</b>, sorted by time.
 
 ![alt text](/img/award.png "Award") The Web Conference Best Poster Award Runner-up
 <br/>
-![alt text](/img/award.png "Award") C.W. Gear Outstanding Graduate Award
-  * This award is for only **one** outstanding graduate student each year in the CS Department at UIUC. [[Details](https://cs.illinois.edu/about-us/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student)]
+![alt text](/img/award.png "Award") C.W. Gear Outstanding Graduate Award. This award is for only **one** outstanding graduate student each year in the CS Department at UIUC. [[Details](https://cs.illinois.edu/about-us/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student)]
 
 ### <center>2017</center>
 
@@ -64,3 +63,5 @@ A selection of my <b>awards</b> and <b>media coverages</b>, sorted by time.
 ### <center>2012</center>
 
 ![alt text](/img/award.png "Award") **National** Scholarship (China)
+<br/>
+![alt text](/img/news.png "News") SJTU News: [Zhiyuan Students Win Championship at the ACM International Collegiate Programming Finals](http://zhiyuan.sjtu.edu.cn/articles/703)
