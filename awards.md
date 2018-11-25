@@ -10,6 +10,8 @@ A selection of my <b>awards</b> and <b>media coverages</b>, sorted by time.
 
 ### <center>2018</center>
 
+🏆 IEEEXtreme 12.0 **World Champion** [[Details](https://ieeextreme.org/wp-content/uploads/2018/11/IEEEXtreme-12.0-Global-Ranking.pdf)]
+<br/>
 🏆 The Web Conference Best Poster Award Runner-up
 <br/>
 🏆 C.W. Gear Outstanding Graduate Award. This award is for only **one** outstanding graduate student each year in the CS Department at UIUC. [[Details](https://cs.illinois.edu/about-us/awards/graduate-fellowships-awards/cw-gear-outstanding-graduate-student)]
