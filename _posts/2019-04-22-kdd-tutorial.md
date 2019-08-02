@@ -68,6 +68,10 @@ In this tutorial, we provide a comprehensive overview on recent research and dev
     - System Demos and Software
         * Named entity recognition inference Python package: [LightNER](https://github.com/LiyuanLucasLiu/LightNER). This module helps users easily apply the pre-trained NER models to their own corpus in an efficient and portable manner.
 4. Taxonomy Construction
+    - Taxonomy Basics
+        * Taxonomy Definition
+        * Taxonomy Application
+        * Taxonomy Construction Pipeline
     - Cluster-based Taxonomy Construction
         * Hierarchical Topic Modeling
         * General Graphical Model Approach
