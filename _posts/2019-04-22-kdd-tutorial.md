@@ -12,7 +12,7 @@ T17: Constructing and Mining Heterogeneous Information Networks from Massive Tex
 </h1>
 Jingbo Shang, Jiaming Shen, Liyuan Liu, Jiawei Han<br/>
 Computer Science Department, University of Illinois at Urbana-Champaign<br/>
-Time: <b>1:00PM - 5:00PM</b><br/>
+Time: <b>1:00PM - 5:00PM, Aug 4, 2019</b><br/>
 Location: <b>Kahtnu 2-Level 2, Dena’ina</b><br/>
 </center>
 
