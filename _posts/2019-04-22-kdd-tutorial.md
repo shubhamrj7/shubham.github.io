@@ -68,21 +68,15 @@ In this tutorial, we provide a comprehensive overview on recent research and dev
     - System Demos and Software
         * Named entity recognition inference Python package: [LightNER](https://github.com/LiyuanLucasLiu/LightNER). This module helps users easily apply the pre-trained NER models to their own corpus in an efficient and portable manner.
 4. Taxonomy Construction
-    - What is taxonomy? 
-    - Supervised Methods
-        * Hypernymy relation extraction
-        * Taxonomy structure induction
-        * End-to-end taxonomy construction
-    - Unsupervised Methods
-        * Hierarchical topic modeling
-        * Hierarchical clustering
-        * Combining text data with network structure
-    - Weakly Supervised Methods
-        * Leverage user guidance
-        * Enrich existing taxonomy
-    - System Demos and Software
-        * Constructed taxonomy showcases
-        * Demonstration of the taxonomy construction processes and the taxonomies constructed by HiExpan and TaxoGen from scientific papers and news articles.
+    - Cluster-based Taxonomy Construction
+        * Hierarchical Topic Modeling
+        * General Graphical Model Approach
+        * Hierarchical Clustering
+    - Instance-based Taxonomy Construction
+        * Used Resources Overview
+        * Pattern-based Methods
+        * Supervised Methods
+        * Weakly-supervised Methods
 5. Mining Heterogeneous Information Networks (Structured Analysis)
     - Basic Analysis System Demo
         * AutoNet system: It constructs a huge structured network from the PubMed papers (title & abstract) and supports online construction (new documents) and intelligent exploration (search).
