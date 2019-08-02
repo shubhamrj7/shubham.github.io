@@ -8,17 +8,17 @@ tags: kdd tutorial 2019
 ### SIGKDD 2019 Tutorial:
 <center>
 <h1>
-Constructing and Mining Heterogeneous Information Networks from Massive Text
+T17: Constructing and Mining Heterogeneous Information Networks from Massive Text
 </h1>
 Jingbo Shang, Jiaming Shen, Liyuan Liu, Jiawei Han<br/>
 Computer Science Department, University of Illinois at Urbana-Champaign<br/>
-Time: <b>TBD</b><br/>
-Location: <b>TBD</b><br/>
+Time: <b>1:00PM - 5:00PM</b><br/>
+Location: <b>Kahtnu 2-Level 2, Dena’ina</b><br/>
 </center>
 
 ## Slides
 
-[preliminary version]
+[preliminary version](https://www.dropbox.com/s/asqpts97hz7zmaf/kdd19-slides-preliminary-version.pdf?dl=0)
 
 ## Abstract
 
@@ -48,7 +48,7 @@ In this tutorial, we provide a comprehensive overview on recent research and dev
         * How to leverage distant supervision?
     - System demos and software introduction
         * A multilingual phrase mining system which integrates [AutoPhrase](https://github.com/shangjingbo1226/AutoPhrase), [SegPhrase](https://github.com/shangjingbo1226/SegPhrase), and TopMine together and supports phrase mining in multiple languages (e.g., English, Spanish, Chinese, Arabic, and Japanese).
-3. Named Entity Recognition
+3. Information Extraction: Entity, Attribute, and Relation
     - What is Named Entity Recognition (NER)?
     - Traditional Supervised Methods
         * CorNLL03 shared task
@@ -62,6 +62,9 @@ In this tutorial, we provide a comprehensive overview on recent research and dev
     - Distantly Supervised Models
         * Data programming for entity typing
         * Learning from domain-specific dictionaries
+    - Meta-Pattern based Information Extraction
+        * Meta-Pattern Discovery
+        * Meta-Pattern-Enhanced NER
     - System Demos and Software
         * Named entity recognition inference Python package: [LightNER](https://github.com/LiyuanLucasLiu/LightNER). This module helps users easily apply the pre-trained NER models to their own corpus in an efficient and portable manner.
 4. Taxonomy Construction
@@ -80,19 +83,18 @@ In this tutorial, we provide a comprehensive overview on recent research and dev
     - System Demos and Software
         * Constructed taxonomy showcases
         * Demonstration of the taxonomy construction processes and the taxonomies constructed by HiExpan and TaxoGen from scientific papers and news articles.
-5. Mining Constructed Networks (Structured Analysis)
+5. Mining Heterogeneous Information Networks (Structured Analysis)
+    - Basic Analysis System Demo
+        * AutoNet system: It constructs a huge structured network from the PubMed papers (title & abstract) and supports online construction (new documents) and intelligent exploration (search).
     - Summarization
-        * Graph-based summarization
-        * Text-based summarization
+        * Graph-based Summarization
+        * Clustering and Ranking for Summarization
+    - Meta-Path Guided Exploration
+        * Meta-Path based Similarity
+        * Meta-Path guided Node Embedding
     - Link Prediction
-        * Traditional link prediction
-        * Link enrichment in the constructed network
-    - Network Embedding
-        * Traditional network embedding
-        * Meta-path guided network embedding
-    - System Demos and Software
-        * AutoNet system:  It constructs a huge structured network from the PubMed papers (title & abstract) and supports online construction (new documents) and intelligent exploration (search).
-        * CaseOLAP sytem: It provides comparative summarization using high-quality phrases.
+        * Task-Guided Node Embedding
+        * Link Enrichment in Constructed Networks
 6. Summary and Future Directions
     - Summary
         * Principles and Techniques
