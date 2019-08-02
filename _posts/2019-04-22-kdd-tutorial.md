@@ -72,15 +72,15 @@ In this tutorial, we provide a comprehensive overview on recent research and dev
         * Taxonomy Definition
         * Taxonomy Application
         * Taxonomy Construction Pipeline
-    - Cluster-based Taxonomy Construction
-        * Hierarchical Topic Modeling
-        * General Graphical Model Approach
-        * Hierarchical Clustering
     - Instance-based Taxonomy Construction
         * Used Resources Overview
         * Pattern-based Methods
         * Supervised Methods
         * Weakly-supervised Methods
+    - Cluster-based Taxonomy Construction
+        * Hierarchical Topic Modeling
+        * General Graphical Model Approach
+        * Hierarchical Clustering
 5. Mining Heterogeneous Information Networks (Structured Analysis)
     - Basic Analysis System Demo
         * AutoNet system: It constructs a huge structured network from the PubMed papers (title & abstract) and supports online construction (new documents) and intelligent exploration (search).
