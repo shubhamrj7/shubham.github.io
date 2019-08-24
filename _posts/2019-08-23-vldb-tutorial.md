@@ -13,7 +13,7 @@ Tutorial 6: TextCube: Automated Construction and Multidimensional Exploration
 Yu Meng, Jiaxin Huang, Jingbo Shang, Jiawei Han<br/>
 Computer Science Department, University of Illinois at Urbana-Champaign<br/>
 Time: <b>2:00PM - 5:30PM, Aug 29, 2019</b><br/>
-Location: <b>Kahtnu 2-Level 2, Dena’ina</b><br/>
+Location: <b>Avalon</b><br/>
 </center>
 
 ## Slides
