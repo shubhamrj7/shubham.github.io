@@ -18,13 +18,86 @@ Location: <b>Avalon</b><br/>
 
 ## Slides
 
-preliminary version
+Preliminary Version
 
 ## Abstract
 
 Today's society is immersed in a wealth of text data, ranging from news articles, to social media, research literature, medical records, and corporate reports. A grand challenge of data science and engineering is to develop effective and scalable methods to extract structures and knowledge from massive text data to satisfy diverse applications, without extensive, corpus-specific human annotations. 
 
 In this tutorial, we show that TextCube provides a critical information organization structure that will satisfy such an information need. We overview a set of recently developed data-driven methods that facilitate automated construction of TextCubes from massive, domain-specific text corpora, and show that TextCubes so constructed will enhance text exploration and analysis for various applications. We focus on new TextCube construction methods that are scalable, weakly-supervised, domain-independent, language-agnostic, and effective (i.e., generating quality TextCubes from large corpora of various domains). We will demonstrate with real datasets (including news articles, scientific publications, and product reviews) on how TextCubes can be constructed to assist multidimensional analysis of massive text corpora.
+
+
+## Outline
+
+1. Introduction
+    - Motivations & Prior Arts
+    - Overview of Multidimensional Text Analysis
+2. Phrase Mining
+    - What are quality phrases?
+    - Supervised Methods
+        * Noun Phrase Chunking Methods
+        * Parsing-based Methods
+        * How to rank entities at the corpus-level?
+    - Unsupervised Methods
+        * Raw Frequency based Methods
+        * Concordance based Methods
+        * Topic Model based Methods
+        * Comparative Methods
+    - Weakly/Distantly Supervised Methods
+        * Phrasal Segmentation and its Variants
+        * How to leverage distant supervision?
+    - System demos and software introduction
+        * A multilingual phrase mining system which integrates [AutoPhrase](https://github.com/shangjingbo1226/AutoPhrase), [SegPhrase](https://github.com/shangjingbo1226/SegPhrase), and TopMine together and supports phrase mining in multiple languages (e.g., English, Spanish, Chinese, Arabic, and Japanese).
+3. Text Representation
+    - Unsupervised Word Embedding
+        * Context-free representation
+        * Contextualized representation
+    - Other embeddings: Network embedding
+        * DeepWalk, LINE, node2vec, ...
+    - Category name-guided word embedding
+        * CatE
+    - System demos and software introduction
+        * Our CatE system demo
+4. Entity Recognition
+    - What is named entity recognition?
+    - Handcrafted Features + Human Supervision
+        * Classical Models: Conditional Random Filed
+        * Standford NER
+        * Twitter NER
+    - Automated Features + Human Supervision
+        * LSTM-CRF, LSTM-CNN-CRF, ...
+        * LM-LSTM-CRF, EMLo, Flair, ...
+        * Multi-task learning
+    - Automated Features + Distant Supervision
+        * AutoEntity, SwellShark, ClusType, Distant-LSTM-CRF, ...
+        * FuzzyCRF & AutoNER
+    - System Demos and Software
+        * Named entity recognition inference Python package: [LightNER](https://github.com/LiyuanLucasLiu/LightNER). This module helps users easily apply the pre-trained NER models to their own corpus in an efficient and portable manner.
+5. Text Cube Construction
+    - Taxonomy Basics and Construction
+    - Cluster-based Taxonomy Construction
+        * Hierarchical Topic Modeling
+        * General Graphical Model Approach
+        * Hierarchical Clustering
+    - Text Cube Basics and Construction
+        * What is Text Cube?
+        * Automatic document allocation for Text Cube construction
+    - System Demos and Software
+        * Publication Dataset Analysis Demo
+6.  Text Cube Exploration
+    - Cube-based Multidimensional Analysis
+        * Statistical Measures Aggregation
+        * Phrase-based Cell Summarization
+        * Key N-gram based Ranking and Exploration
+    - System Demos and Software
+        * Demo: MissionCube
+6. Summary and Future Directions
+    - Summary of Text Cube
+        * Principles and Techniques
+        * Advantages and Limitations
+        * How to build a text cube based on your application?
+    - Future Directions
+
 
 ## Presenters
 
