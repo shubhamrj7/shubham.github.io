@@ -18,7 +18,7 @@ Location: <b>Avalon</b><br/>
 
 ## Slides
 
-Preliminary Version
+[Preliminary Version](https://www.dropbox.com/s/gbqd83zocy2szph/VLDB%2719%20tutorial.pdf?dl=1)
 
 ## Abstract
 
