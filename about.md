@@ -14,10 +14,8 @@ permalink: /about/
 
 # <center>Short Bio</center>
 
-I am a final-year Ph.D. student in Prof. [Jiawei Han](http://hanj.cs.illinois.edu/)'s [Data Mining Group](http://dm1.cs.uiuc.edu/) at [CS@Illinois](https://cs.illinois.edu/), and a [Google PhD Fellow](https://ai.google/research/outreach/phd-fellowship). I received my B.E. from Computer Science Department, Shanghai Jiao Tong Univ. (SJTU), China, where I was a member of the 2010 [ACM Honored class](http://acm.sjtu.edu.cn/), now part of Zhiyuan College in SJTU. 
+I am a forth year Int. Ph.D. student in Dr. [Manas Kar](https://manasmkar.wixsite.com/math)'s [Inverse problem Group](https://manasmkar.wixsite.com/math/research-group) at [IISER Bhopal](https://www.iiserb.ac.in). I received my B.Sc from Department of Mathematics, New Art's, Commerce and Science College, Ahmednagar in 2017 and M.S from Department of Mathematics, IISER Bhopal in 2021.
 
-My research focuses on developing principled *data-driven* approaches, with *little human curation and labeling*, to transform unstructured text data into structured heterogeneous information networks, on which actionable knowledge can be further uncovered flexibly and effectively based on user's instructions.
-
-My research has been recognized by many prestigious awards, including Computer Science Excellence Scholarship from CS@Illinois, Grand Prize of Yelp Dataset Challenge in 2015, Google PhD Fellowship in Structured Data and Database Management in 2017, and C.W. Gear Outstanding Graduate Award in 2018.
-
-In addition, I love competitive programming contests, such as ACM/ICPC, Topcoder Open, Google Codejam, Facebook Hackercup, etc. I'm now the coach of the UIUC's ACM/ICPC team and I enjoy mentoring and coaching students.
+From 2019, I have been focusing on mathematical aspects of inverse problems related to partial differential equations. In inverse problems, one needs to recover an unknown parameter of a system from external observations. One of my main research topics is inverse Calderón problem for different kinds of partial differential equations (PDEs). The problem asks to determine the conductivity of an object from the voltage and current measured on its boundary.
+These kinds of inverse problems have fundamental importance in Industrial and medical Imaging as well as in connection to geophysical problems.
+ 
